@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "brn1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b8094f6b-79a5-459f-8158-4e048bfef520",
+			"database_name": "brn-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
